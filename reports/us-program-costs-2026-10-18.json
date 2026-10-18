@@ -1,0 +1,282 @@
+{
+  "checked_date_eastern": "2026-10-18",
+  "generated_at_utc": "2026-10-18T05:22:06.508332+00:00",
+  "currency": "USD",
+  "basis": "international/non-resident in-person masters; future rates held constant only for scenarios; living costs excluded",
+  "sources": {
+    "F01": {
+      "label": "GSU 2026–27学费和必缴费",
+      "url": "https://www.govst.edu/tuition-and-fees-ay-2026-2027"
+    },
+    "F02": {
+      "label": "GSU MSBA项目、36学分与STEM",
+      "url": "https://www.govst.edu/msba/"
+    },
+    "F03": {
+      "label": "UIC官方研究生收费入口",
+      "url": "https://registrar.uic.edu/financial-matters/graduate-tuition-and-fees/"
+    },
+    "F04": {
+      "label": "UIC Fall 2026/Spring 2027官方PDF（Box）",
+      "url": "https://uofi.box.com/s/z2nl5shzqqa74wjizi1kk64a195n4tjm"
+    },
+    "F05": {
+      "label": "UIC MS Business Analytics：32学分与补修",
+      "url": "https://business.uic.edu/graduate/degrees/master-science-business-analytics/"
+    },
+    "F06": {
+      "label": "UIC MS MIS：32学分与STEM",
+      "url": "https://business.uic.edu/graduate/degrees/master-science-management-information-systems/"
+    },
+    "F07": {
+      "label": "UIC国际生入学一次性$199费用",
+      "url": "https://ois.uic.edu/coming-to-uic/orientation/international-student-orientation/"
+    },
+    "F08": {
+      "label": "UMass Boston 2026–27官方项目计算器",
+      "url": "https://www.umb.edu/admissions/graduate-students/apply/estimate-your-program-costs/"
+    },
+    "F09": {
+      "label": "UMass Boston计算器公开表单数据",
+      "url": "https://go.umb.edu/register/form?id=18506c31-c9c1-4b76-ba10-99a84f5286ad"
+    },
+    "F10": {
+      "label": "UMass Boston Fall 2026详细收费PDF",
+      "url": "https://www.umb.edu/media/umassboston/editor-uploads/bursar/Fall-2026-Graduate-Full-time-Tuition-and-Fees.pdf"
+    },
+    "F11": {
+      "label": "UMass Boston MSBA：30学分及先修课",
+      "url": "https://www.umb.edu/academics/program-finder/business-analytics-ms/"
+    },
+    "F12": {
+      "label": "UMass Boston保险政策",
+      "url": "https://www.umb.edu/bursar/health-insurance/"
+    },
+    "F13": {
+      "label": "Baruch现行收费表（Effective Fall 2025）",
+      "url": "https://adminfinance.baruch.cuny.edu/bursar/tuition/"
+    },
+    "F14": {
+      "label": "Baruch 2026–27 AI & Business Analytics目录",
+      "url": "https://baruch-graduate.catalog.cuny.edu/programs/BUSANLY-MS"
+    },
+    "F15": {
+      "label": "Baruch 2026–27 Information Systems目录",
+      "url": "https://baruch-graduate.catalog.cuny.edu/programs/IS-MS"
+    },
+    "F16": {
+      "label": "Brooklyn研究生国际费率与附加费",
+      "url": "https://www.brooklyn.edu/bursar/tuition-and-fees/graduate/"
+    },
+    "F17": {
+      "label": "Brooklyn 2026–27课程要求",
+      "url": "https://www.brooklyn.edu/academics/programs/business-administration-ms/"
+    },
+    "F18": {
+      "label": "Brooklyn各项收费定义",
+      "url": "https://www.brooklyn.edu/bursar/tuition-and-fees/definition-of-fees/"
+    },
+    "F19": {
+      "label": "UMD Applied Economics专属收费表",
+      "url": "https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/applied-economics/tuition-and-fees"
+    },
+    "F20": {
+      "label": "UMD Applied Economics College Park课程与24个月安排",
+      "url": "https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/applied-economics/ms-applied-economics-college-park"
+    },
+    "F21": {
+      "label": "UMD Applied Economics国际生与STEM说明",
+      "url": "https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/applied-economics/program-overview"
+    },
+    "F22": {
+      "label": "UMD大学必缴费、国际生费与保险",
+      "url": "https://billpay.umd.edu/GraduateTuition"
+    },
+    "F23": {
+      "label": "UMD MPP 2026–27收费表",
+      "url": "https://spp.umd.edu/admissions/tuition-fees"
+    },
+    "F24": {
+      "label": "UMD MPP学分及安排",
+      "url": "https://spp.umd.edu/your-education/masters/master-public-policy"
+    },
+    "F25": {
+      "label": "OPT及STEM延期现行法规",
+      "url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2"
+    },
+    "F28": {
+      "label": "UIC国际生全日制及最后学期减课规定",
+      "url": "https://ois.uic.edu/immigration/international-student-enrollment-requirements/"
+    },
+    "F26": {
+      "label": "UMD Applied Political Analytics费用",
+      "url": "https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/applied-political-analytics/tuition-and-fees"
+    },
+    "F27": {
+      "label": "UMD International Relations费用",
+      "url": "https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/international-relations/tuition-and-fees"
+    }
+  },
+  "calculations": {
+    "GSU_tuition": 34200,
+    "GSU_credit_fees": 2700,
+    "GSU_3terms": 40569,
+    "GSU_4terms": 41792,
+    "UIC_RangeI_total_per_term": 21602.0,
+    "UIC_RangeII_total_per_term": 15035.0,
+    "UIC_2terms": 43403.0,
+    "UIC_3terms": 58438.0,
+    "UIC_4terms": 53636.0,
+    "UIC_2terms_tuition": 38126,
+    "UIC_3terms_tuition": 50834,
+    "UIC_4terms_tuition": 44479,
+    "UMB_tuition": 51135.0,
+    "UMB_calc_base": 53201.0,
+    "UMB_3terms": 56051.0,
+    "UMB_4terms": 57001.0,
+    "Baruch_AI_low": 33292.5,
+    "Baruch_AI_high": 37152.5,
+    "Baruch_IS_tuition": 30397.5,
+    "Baruch_AI_4terms_low": 33760.9,
+    "Baruch_AI_4terms_high": 37683.4,
+    "Baruch_IS_4terms": 30865.9,
+    "Brooklyn_tuition": 25650,
+    "Brooklyn_3terms": 26202.1,
+    "Brooklyn_4terms": 26302.8,
+    "UMD_ECON_tuition": 46280,
+    "UMD_ECON_4terms": 49376.5,
+    "UMD_MPP_tuition": 103584,
+    "UMD_MPP_4terms": 107036,
+    "UMD_annual_insurance": 2939,
+    "UMB_annual_insurance_reference": 3492.04
+  },
+  "programmes": [
+    {
+      "id": "US01",
+      "name": "Governors State — MS Business Analytics",
+      "credits": "36",
+      "rate_year": "2026–27",
+      "tuition": "$34,200纯学费",
+      "school_cost_scenarios": "$40,569／$41,792（3／4学期核心学费及必缴费）",
+      "scope": "另有毕业$125、Graduate Administration Fee $100（收费页未说明重复频次）；保险另计。",
+      "source_ids": [
+        "F01",
+        "F02"
+      ]
+    },
+    {
+      "id": "US02",
+      "name": "UIC — MS Business Analytics",
+      "credits": "32",
+      "rate_year": "Fall 2026 / Spring 2027费率",
+      "tuition": "$38,126／$50,834／$44,479（2／3／4学期计费情景）",
+      "school_cost_scenarios": "$43,403／$58,438／$53,636（2／3／4学期）",
+      "scope": "含CampusCare、国际生费和一次性$199；不含补修及自选U-Pass。",
+      "source_ids": [
+        "F03",
+        "F04",
+        "F05",
+        "F07"
+      ]
+    },
+    {
+      "id": "US03",
+      "name": "UIC — MS Management Information Systems",
+      "credits": "32",
+      "rate_year": "同上",
+      "tuition": "$38,126／$50,834／$44,479（2／3／4学期计费情景）",
+      "school_cost_scenarios": "$43,403／$58,438／$53,636（2／3／4学期）",
+      "scope": "与MSBA同一商学院差额费率；先修不足仍可能增加学分／学期。",
+      "source_ids": [
+        "F04",
+        "F06",
+        "F07"
+      ]
+    },
+    {
+      "id": "US04",
+      "name": "UMass Boston — MS Business Analytics",
+      "credits": "30",
+      "rate_year": "2026–27计算器 / Fall 2026费表",
+      "tuition": "$51,135（按30×$1,704.50的普通学期学费）",
+      "school_cost_scenarios": "$53,201官方计算器基础估价；加商学院费后3／4秋春学期$56,051／$57,001",
+      "scope": "计算器基础价已含其估算的必缴及一次性费；商学院费和保险另加，勿重复加算一次性费。",
+      "source_ids": [
+        "F08",
+        "F09",
+        "F10",
+        "F11",
+        "F12"
+      ]
+    },
+    {
+      "id": "US05",
+      "name": "Baruch — MS Artificial Intelligence and Business Analytics（原Business Analytics）",
+      "credits": "34.5–38.5",
+      "rate_year": "2026–27目录；现行Effective Fall 2025费率",
+      "tuition": "$33,292.50–$37,152.50（含AEF）",
+      "school_cost_scenarios": "$33,760.90–$37,683.40（两端各按4学期示例）",
+      "scope": "新目录学分有范围，最终课程方案决定账单；保险、非学位英语模块等另计。",
+      "source_ids": [
+        "F13",
+        "F14"
+      ]
+    },
+    {
+      "id": "US06",
+      "name": "Baruch — MS Information Systems",
+      "credits": "31.5最低要求；以个案课程方案为准",
+      "rate_year": "2026–27目录；同上现行费率",
+      "tuition": "$30,397.50（按31.5学分，含AEF）",
+      "school_cost_scenarios": "$30,865.90（4学期示例）",
+      "scope": "商科核心／先修与非学位英语模块是否需要按个案审核；超过31.5学分另算。",
+      "source_ids": [
+        "F13",
+        "F15"
+      ]
+    },
+    {
+      "id": "US07",
+      "name": "Brooklyn — MS Business Administration，Business Analytics option",
+      "credits": "30",
+      "rate_year": "2026–27课程；现行收费页",
+      "tuition": "$25,650纯学费",
+      "school_cost_scenarios": "$26,202.10／$26,302.80（3／4学期示例）",
+      "scope": "不含保险及特定课程额外接触课时费；该方向具体STEM/CIP仍不能据名称认定。",
+      "source_ids": [
+        "F16",
+        "F17",
+        "F18"
+      ]
+    },
+    {
+      "id": "US08",
+      "name": "UMD — MS Applied Economics，College Park",
+      "credits": "30 / 10门",
+      "rate_year": "2026–27项目专属费率",
+      "tuition": "$46,280纯学费",
+      "school_cost_scenarios": "$49,376.50（按官网9＋9＋9＋3学分排课）",
+      "scope": "国际生只申请College Park；24个月；校方已明确STEM。保险另计。",
+      "source_ids": [
+        "F19",
+        "F20",
+        "F21",
+        "F22"
+      ]
+    },
+    {
+      "id": "US09",
+      "name": "UMD — Master of Public Policy",
+      "credits": "48",
+      "rate_year": "2026–27非居民费率",
+      "tuition": "$103,584纯学费",
+      "school_cost_scenarios": "$107,036（4学期，含国际生费）",
+      "scope": "保险另计；未取得具体STEM认定，且费用明显超出低预算方向。",
+      "source_ids": [
+        "F22",
+        "F23",
+        "F24"
+      ]
+    }
+  ]
+}

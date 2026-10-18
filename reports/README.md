@@ -1,6 +1,15 @@
 # 研究生选校报告
 
-- [下载／查看 PDF（35页，约0.33 MB）](graduate-program-report.pdf)
+**美国费用已于2026年10月18日完成补查。**
+
+- [美国费用专版 PDF：九个项目逐项计算](us-program-costs-2026-10-18.pdf)
+- [美国费用专版在线文字版](us-program-costs-2026-10-18.md)
+- [费用计算和官方来源数据](us-program-costs-2026-10-18.json)
+
+美国专版区分纯学费、商学院附加费、学期费和保险，并提供排课情景；还更正了Baruch新版AI & Business Analytics名称和学分、UMD Applied Economics国际生仅申请College Park的路径。全球报告的美国费用表也已同步更新。
+
+
+- [下载／查看 PDF（含国内五校与难度分档）](graduate-program-report.pdf)
 - [在线阅读文字版](graduate-program-report.md)
 
 包含美国、澳大利亚、新西兰、荷兰及其他欧洲国家、香港，以及中国内地清华大学、北京大学、复旦大学、上海交通大学、同济大学，共41个项目／方向；国内按国际学生申请通道调查。
